@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ndee N</title>
+    <link>https://github.com/ndeekem/</link>
+    <description>Recent content in Data Science Portfolio on Ndee N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/ndeekem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project II: Car Brand Classifier  CBC-App</title>
+      <link>https://github.com/ndeekem/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/ndeekem/post/project-2/</guid>
+      <description> Created a tool that classifies vehicle brand with an image. Scraped over 1000 vehicle images from cargurus.com using python and selenium Engineered images for efficient model computation. Optimized tensorflow model, KNN, and Random Forest Classifier using GridsearchCV to reach the best model. Built a client facing API using flask for a mobile app using the phone camera    </description>
+    </item>
+    
+    <item>
+      <title>Project I: Predicting auto insurance claim</title>
+      <link>https://github.com/ndeekem/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/ndeekem/post/project-1/</guid>
+      <description>Developed a tool that estimates the probability of an insured driver filing a claim, thus enabling an insurance firm to correctly price vehicle insurance premium. Helping customer retention and long term profitability.
+  Data was from the Kaggle competition on vehicle insurance - rated as top 1% of Kaggle competition.
+  Dataset size a over 1.3Million rows of data.
+  Wrangled data for optimal features to optimally deliver targted result.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/ndeekem/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/ndeekem/contact/</guid>
+      <description>Follow me on the social media platforms
+   Platforms URLs     Twitter: https://twitter.com/hillfocus/   LinkedIn: https://www.linkedin.com/in/ndeenkemjika   Github: https://github.com/ndeekem    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Ndee N</title>
+    <link>https://github.com/ndeekem/tags/scene/</link>
+    <description>Recent content in scene on Ndee N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/ndeekem/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Predicting auto insurance claim</title>
+      <link>https://github.com/ndeekem/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/ndeekem/post/project-1/</guid>
+      <description>Developed a tool that estimates the probability of an insured driver filing a claim, thus enabling an insurance firm to correctly price vehicle insurance premium. Helping customer retention and long term profitability.
+  Data was from the Kaggle competition on vehicle insurance - rated as top 1% of Kaggle competition.
+  Dataset size a over 1.3Million rows of data.
+  Wrangled data for optimal features to optimally deliver targted result.</description>
+    </item>
+    
+  </channel>
+</rss>
